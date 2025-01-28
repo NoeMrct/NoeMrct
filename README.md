@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Noé Mercourt</h1>
 <h3 align="center">Passionate about IT and especially Front-End Development!</h3>
 
-- 🔭 I’m currently working on **Spree**
+- 🔭 I’m currently working on **:underage: websites**
 
-- 👨‍💻 All of my projects are available at [https://mercourt-noe.com/](https://mercourt-noe.com/)
-
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about *jQuery, Next.js**
 
 - 📫 How to reach me **mercourt.noe@outlook.fr**
 
