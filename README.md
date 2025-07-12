@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Noé Mercourt</h1>
 <h3 align="center">Passionate about IT and especially Front-End Development!</h3>
 
-- 🔭 I’m currently working on **:underage: websites**
+- 🔭 I’m currently working on **some websites**
 
 - 💬 Ask me about **jQuery, Next.js**
 
