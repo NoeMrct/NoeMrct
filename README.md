@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some websites**
 
-- 💬 Ask me about **jQuery, Next.js**
+- 💬 Ask me about **jQuery,TypeScript**
 
 - 📫 How to reach me **mercourt.noe@outlook.fr**
 
